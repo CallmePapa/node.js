@@ -8,3 +8,10 @@ function Hello() {
     };
 };
 module.exports = Hello;
+
+
+//main.js
+var Hello =require('./mokuaisystem');
+hello = new Hello;
+hello.setName('weiqiujuan');
+hello.sayHello();
