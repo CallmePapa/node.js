@@ -4,5 +4,7 @@
 ２．npm install </p>
 ３．node spider.js</p>
 便可进行网页内容的获取</p>
+
+因为时间有限，所以只爬了２０多条．</p>
 <a src="http://blog.csdn.net/wodeai1235/article/details/77485670">参考原文</a>
    
